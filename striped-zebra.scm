@@ -2,7 +2,7 @@
 ; email: t@thintz.com
 ; license: bsd
 
-; Copyright (c) 2012, Thomas Hintz
+; Copyright (c) 2012-2013, Thomas Hintz
 ; All rights reserved.
 
 ; Redistribution and use in source and binary forms, with or without
