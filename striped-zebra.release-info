@@ -1,4 +1,4 @@
 (repo git "git://github.com/ThomasHintz/{egg-name}.git")   ; optional
 
 (uri targz "https://github.com/ThomasHintz/{egg-name}/tarball/{egg-release}")
-(release "0.1")
+(release "0.2")
